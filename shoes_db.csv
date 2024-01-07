@@ -1,0 +1,712 @@
+dt,source,brand_name,average_daily_price
+2023-09-30,CCS.com,Adidas,86.96
+2023-09-30,CCS.com,C1rca,69.95
+2023-09-30,CCS.com,Converse,79.95
+2023-09-30,CCS.com,DC,79.95
+2023-09-30,CCS.com,Emerica,81.2
+2023-09-30,CCS.com,eS,116.62
+2023-09-30,CCS.com,Etnies,97.45
+2023-09-30,CCS.com,Globe,133.7
+2023-09-30,CCS.com,Hours,86.28
+2023-09-30,CCS.com,Lakai,79.62
+2023-09-30,CCS.com,New Balance,88.48
+2023-09-30,CCS.com,Nike SB,86.61
+2023-09-30,CCS.com,Osiris,95.95
+2023-09-30,CCS.com,Reebok,89.95
+2023-09-30,CCS.com,Saucony,119.95
+2023-09-30,CCS.com,Vans,87.4
+2023-09-30,Tactics.com,Adidas,89.95
+2023-09-30,Tactics.com,Converse,78.95
+2023-09-30,Tactics.com,Emerica,83.28
+2023-09-30,Tactics.com,eS,129.95
+2023-09-30,Tactics.com,Etnies,97.45
+2023-09-30,Tactics.com,Lakai,84.2
+2023-09-30,Tactics.com,Last Resort,96.2
+2023-09-30,Tactics.com,New Balance,94.95
+2023-09-30,Tactics.com,Nike SB,91.2
+2023-09-30,Tactics.com,Thirtytwo,79.95
+2023-09-30,Tactics.com,Vans,120.95
+2023-10-01,CCS.com,Adidas,86.96
+2023-10-01,CCS.com,C1rca,69.95
+2023-10-01,CCS.com,Converse,79.95
+2023-10-01,CCS.com,DC,79.95
+2023-10-01,CCS.com,Emerica,81.2
+2023-10-01,CCS.com,eS,116.62
+2023-10-01,CCS.com,Etnies,97.45
+2023-10-01,CCS.com,Globe,133.7
+2023-10-01,CCS.com,Hours,86.28
+2023-10-01,CCS.com,Lakai,79.62
+2023-10-01,CCS.com,New Balance,88.48
+2023-10-01,CCS.com,Nike SB,86.61
+2023-10-01,CCS.com,Osiris,95.95
+2023-10-01,CCS.com,Reebok,89.95
+2023-10-01,CCS.com,Saucony,119.95
+2023-10-01,CCS.com,Vans,87.4
+2023-10-01,Tactics.com,Adidas,92.95
+2023-10-01,Tactics.com,Converse,78.95
+2023-10-01,Tactics.com,Emerica,76.62
+2023-10-01,Tactics.com,eS,119.95
+2023-10-01,Tactics.com,Etnies,93.28
+2023-10-01,Tactics.com,Lakai,89.2
+2023-10-01,Tactics.com,Last Resort,96.2
+2023-10-01,Tactics.com,New Balance,93.95
+2023-10-01,Tactics.com,Nike SB,89.95
+2023-10-01,Tactics.com,Thirtytwo,79.95
+2023-10-01,Tactics.com,Vans,117.95
+2023-10-02,CCS.com,Adidas,86.96
+2023-10-02,CCS.com,C1rca,69.95
+2023-10-02,CCS.com,Converse,79.95
+2023-10-02,CCS.com,DC,79.95
+2023-10-02,CCS.com,Emerica,81.2
+2023-10-02,CCS.com,eS,116.62
+2023-10-02,CCS.com,Etnies,97.45
+2023-10-02,CCS.com,Globe,133.7
+2023-10-02,CCS.com,Hours,86.28
+2023-10-02,CCS.com,Lakai,79.62
+2023-10-02,CCS.com,New Balance,88.48
+2023-10-02,CCS.com,Nike SB,86.61
+2023-10-02,CCS.com,Osiris,95.95
+2023-10-02,CCS.com,Reebok,89.95
+2023-10-02,CCS.com,Saucony,119.95
+2023-10-02,CCS.com,Vans,87.4
+2023-10-02,Tactics.com,Adidas,88.95
+2023-10-02,Tactics.com,Converse,78.95
+2023-10-02,Tactics.com,Emerica,84.95
+2023-10-02,Tactics.com,eS,129.95
+2023-10-02,Tactics.com,Etnies,98.28
+2023-10-02,Tactics.com,Lakai,85.95
+2023-10-02,Tactics.com,Last Resort,93.7
+2023-10-02,Tactics.com,New Balance,94.95
+2023-10-02,Tactics.com,Nike SB,89.95
+2023-10-02,Tactics.com,Thirtytwo,79.95
+2023-10-02,Tactics.com,Vans,115.95
+2023-10-03,CCS.com,Adidas,86.96
+2023-10-03,CCS.com,C1rca,69.95
+2023-10-03,CCS.com,Converse,79.95
+2023-10-03,CCS.com,DC,79.95
+2023-10-03,CCS.com,Emerica,81.2
+2023-10-03,CCS.com,eS,116.62
+2023-10-03,CCS.com,Etnies,97.45
+2023-10-03,CCS.com,Globe,133.7
+2023-10-03,CCS.com,Hours,86.28
+2023-10-03,CCS.com,Lakai,79.62
+2023-10-03,CCS.com,New Balance,88.48
+2023-10-03,CCS.com,Nike SB,86.61
+2023-10-03,CCS.com,Osiris,95.95
+2023-10-03,CCS.com,Reebok,89.95
+2023-10-03,CCS.com,Saucony,119.95
+2023-10-03,CCS.com,Vans,87.4
+2023-10-03,Tactics.com,Adidas,89.95
+2023-10-03,Tactics.com,Converse,77.95
+2023-10-03,Tactics.com,Emerica,83.7
+2023-10-03,Tactics.com,eS,149.95
+2023-10-03,Tactics.com,Etnies,97.45
+2023-10-03,Tactics.com,Lakai,88.95
+2023-10-03,Tactics.com,Last Resort,94.95
+2023-10-03,Tactics.com,New Balance,89.95
+2023-10-03,Tactics.com,Nike SB,89.95
+2023-10-03,Tactics.com,Thirtytwo,79.95
+2023-10-03,Tactics.com,Vans,114.12
+2023-10-04,CCS.com,Adidas,92.2
+2023-10-04,CCS.com,C1rca,69.95
+2023-10-04,CCS.com,Converse,78.33
+2023-10-04,CCS.com,DC,124.95
+2023-10-04,CCS.com,Emerica,94.95
+2023-10-04,CCS.com,eS,116.2
+2023-10-04,CCS.com,Globe,124.95
+2023-10-04,CCS.com,Last Resort,93.7
+2023-10-04,CCS.com,New Balance,90.04
+2023-10-04,CCS.com,Nike SB,92.45
+2023-10-04,CCS.com,Reebok,89.95
+2023-10-04,CCS.com,Saucony,77
+2023-10-04,CCS.com,Vans,88.28
+2023-10-04,Tactics.com,Adidas,87.95
+2023-10-04,Tactics.com,Converse,78.95
+2023-10-04,Tactics.com,Emerica,83.7
+2023-10-04,Tactics.com,eS,119.95
+2023-10-04,Tactics.com,Etnies,98.28
+2023-10-04,Tactics.com,Lakai,84.7
+2023-10-04,Tactics.com,Last Resort,94.95
+2023-10-04,Tactics.com,New Balance,99.95
+2023-10-04,Tactics.com,Nike SB,91.2
+2023-10-04,Tactics.com,Thirtytwo,79.95
+2023-10-04,Tactics.com,Vans,115.95
+2023-10-05,CCS.com,Adidas,92.2
+2023-10-05,CCS.com,C1rca,69.95
+2023-10-05,CCS.com,Converse,78.33
+2023-10-05,CCS.com,DC,124.95
+2023-10-05,CCS.com,Emerica,94.95
+2023-10-05,CCS.com,eS,116.2
+2023-10-05,CCS.com,Globe,124.95
+2023-10-05,CCS.com,Last Resort,93.7
+2023-10-05,CCS.com,New Balance,90.04
+2023-10-05,CCS.com,Nike SB,92.45
+2023-10-05,CCS.com,Reebok,89.95
+2023-10-05,CCS.com,Saucony,77
+2023-10-05,CCS.com,Vans,88.28
+2023-10-05,Tactics.com,Adidas,92.95
+2023-10-05,Tactics.com,Converse,78.95
+2023-10-05,Tactics.com,Emerica,78.7
+2023-10-05,Tactics.com,eS,119.95
+2023-10-05,Tactics.com,Etnies,98.28
+2023-10-05,Tactics.com,Lakai,85.95
+2023-10-05,Tactics.com,Last Resort,94.95
+2023-10-05,Tactics.com,New Balance,94.95
+2023-10-05,Tactics.com,Nike SB,89.95
+2023-10-05,Tactics.com,Thirtytwo,79.95
+2023-10-05,Tactics.com,Vans,117.95
+2023-10-06,CCS.com,Adidas,92.2
+2023-10-06,CCS.com,C1rca,69.95
+2023-10-06,CCS.com,Converse,78.33
+2023-10-06,CCS.com,DC,124.95
+2023-10-06,CCS.com,Emerica,94.95
+2023-10-06,CCS.com,eS,116.2
+2023-10-06,CCS.com,Globe,124.95
+2023-10-06,CCS.com,Last Resort,93.7
+2023-10-06,CCS.com,New Balance,90.04
+2023-10-06,CCS.com,Nike SB,92.45
+2023-10-06,CCS.com,Reebok,89.95
+2023-10-06,CCS.com,Saucony,77
+2023-10-06,CCS.com,Vans,88.28
+2023-10-06,Tactics.com,Adidas,90.95
+2023-10-06,Tactics.com,Converse,77.95
+2023-10-06,Tactics.com,Emerica,89.95
+2023-10-06,Tactics.com,eS,119.95
+2023-10-06,Tactics.com,Etnies,103.28
+2023-10-06,Tactics.com,Lakai,82.45
+2023-10-06,Tactics.com,Last Resort,93.7
+2023-10-06,Tactics.com,New Balance,89.95
+2023-10-06,Tactics.com,Nike SB,91.2
+2023-10-06,Tactics.com,Thirtytwo,79.95
+2023-10-06,Tactics.com,Vans,136.62
+2023-10-07,CCS.com,Adidas,93.77
+2023-10-07,CCS.com,C1rca,69.95
+2023-10-07,CCS.com,Converse,78.33
+2023-10-07,CCS.com,DC,124.95
+2023-10-07,CCS.com,Emerica,94.95
+2023-10-07,CCS.com,eS,116.2
+2023-10-07,CCS.com,Globe,124.95
+2023-10-07,CCS.com,Last Resort,93.7
+2023-10-07,CCS.com,New Balance,89.21
+2023-10-07,CCS.com,Nike SB,92.45
+2023-10-07,CCS.com,Reebok,89.95
+2023-10-07,CCS.com,Saucony,105.98
+2023-10-07,CCS.com,Vans,88.28
+2023-10-07,Tactics.com,Adidas,90.95
+2023-10-07,Tactics.com,Converse,77.95
+2023-10-07,Tactics.com,Emerica,89.95
+2023-10-07,Tactics.com,eS,119.95
+2023-10-07,Tactics.com,Etnies,103.28
+2023-10-07,Tactics.com,Lakai,82.45
+2023-10-07,Tactics.com,Last Resort,93.7
+2023-10-07,Tactics.com,New Balance,89.95
+2023-10-07,Tactics.com,Nike SB,91.2
+2023-10-07,Tactics.com,Thirtytwo,79.95
+2023-10-07,Tactics.com,Vans,136.62
+2023-10-08,CCS.com,Adidas,93.77
+2023-10-08,CCS.com,C1rca,69.95
+2023-10-08,CCS.com,Converse,78.33
+2023-10-08,CCS.com,DC,124.95
+2023-10-08,CCS.com,Emerica,94.95
+2023-10-08,CCS.com,eS,116.2
+2023-10-08,CCS.com,Globe,124.95
+2023-10-08,CCS.com,Last Resort,93.7
+2023-10-08,CCS.com,New Balance,89.21
+2023-10-08,CCS.com,Nike SB,92.45
+2023-10-08,CCS.com,Reebok,89.95
+2023-10-08,CCS.com,Saucony,105.98
+2023-10-08,CCS.com,Vans,88.28
+2023-10-08,Tactics.com,Adidas,89.95
+2023-10-08,Tactics.com,Converse,75.95
+2023-10-08,Tactics.com,Emerica,83.7
+2023-10-08,Tactics.com,eS,119.95
+2023-10-08,Tactics.com,Etnies,103.28
+2023-10-08,Tactics.com,Lakai,88.95
+2023-10-08,Tactics.com,Last Resort,93.7
+2023-10-08,Tactics.com,New Balance,93.95
+2023-10-08,Tactics.com,Nike SB,89.95
+2023-10-08,Tactics.com,Thirtytwo,79.95
+2023-10-08,Tactics.com,Vans,117.95
+2023-10-09,CCS.com,Adidas,93.77
+2023-10-09,CCS.com,C1rca,69.95
+2023-10-09,CCS.com,Converse,78.33
+2023-10-09,CCS.com,DC,124.95
+2023-10-09,CCS.com,Emerica,94.95
+2023-10-09,CCS.com,eS,116.2
+2023-10-09,CCS.com,Globe,124.95
+2023-10-09,CCS.com,Last Resort,93.7
+2023-10-09,CCS.com,New Balance,89.21
+2023-10-09,CCS.com,Nike SB,92.45
+2023-10-09,CCS.com,Reebok,89.95
+2023-10-09,CCS.com,Saucony,105.98
+2023-10-09,CCS.com,Vans,88.28
+2023-10-09,Tactics.com,Adidas,91.2
+2023-10-09,Tactics.com,Converse,78.95
+2023-10-09,Tactics.com,Emerica,84.95
+2023-10-09,Tactics.com,eS,119.95
+2023-10-09,Tactics.com,Etnies,98.28
+2023-10-09,Tactics.com,Lakai,85.95
+2023-10-09,Tactics.com,Last Resort,96.2
+2023-10-09,Tactics.com,New Balance,93.95
+2023-10-09,Tactics.com,Nike SB,89.95
+2023-10-09,Tactics.com,Thirtytwo,79.95
+2023-10-09,Tactics.com,Vans,115.95
+2023-10-10,CCS.com,Adidas,93.77
+2023-10-10,CCS.com,C1rca,69.95
+2023-10-10,CCS.com,Converse,78.33
+2023-10-10,CCS.com,DC,124.95
+2023-10-10,CCS.com,Emerica,94.95
+2023-10-10,CCS.com,eS,116.2
+2023-10-10,CCS.com,Globe,124.95
+2023-10-10,CCS.com,Last Resort,93.7
+2023-10-10,CCS.com,New Balance,89.21
+2023-10-10,CCS.com,Nike SB,92.45
+2023-10-10,CCS.com,Reebok,89.95
+2023-10-10,CCS.com,Saucony,105.98
+2023-10-10,CCS.com,Vans,88.28
+2023-10-10,Tactics.com,Adidas,93.7
+2023-10-10,Tactics.com,Converse,78.95
+2023-10-10,Tactics.com,Emerica,79.95
+2023-10-10,Tactics.com,eS,119.95
+2023-10-10,Tactics.com,Etnies,98.28
+2023-10-10,Tactics.com,Lakai,84.7
+2023-10-10,Tactics.com,Last Resort,94.95
+2023-10-10,Tactics.com,New Balance,94.95
+2023-10-10,Tactics.com,Nike SB,90.95
+2023-10-10,Tactics.com,Thirtytwo,79.95
+2023-10-10,Tactics.com,Vans,147.95
+2023-10-11,CCS.com,Adidas,93.77
+2023-10-11,CCS.com,C1rca,69.95
+2023-10-11,CCS.com,Converse,78.33
+2023-10-11,CCS.com,DC,124.95
+2023-10-11,CCS.com,Emerica,94.95
+2023-10-11,CCS.com,eS,116.2
+2023-10-11,CCS.com,Globe,124.95
+2023-10-11,CCS.com,Last Resort,93.7
+2023-10-11,CCS.com,New Balance,89.21
+2023-10-11,CCS.com,Nike SB,92.45
+2023-10-11,CCS.com,Reebok,89.95
+2023-10-11,CCS.com,Saucony,105.98
+2023-10-11,CCS.com,Vans,88.28
+2023-10-11,Tactics.com,Adidas,91.2
+2023-10-11,Tactics.com,Converse,77.95
+2023-10-11,Tactics.com,Emerica,88.28
+2023-10-11,Tactics.com,eS,119.95
+2023-10-11,Tactics.com,Etnies,103.28
+2023-10-11,Tactics.com,Lakai,88.2
+2023-10-11,Tactics.com,Last Resort,91.2
+2023-10-11,Tactics.com,New Balance,93.95
+2023-10-11,Tactics.com,Nike SB,90.95
+2023-10-11,Tactics.com,Thirtytwo,79.95
+2023-10-11,Tactics.com,Vans,117.95
+2023-10-12,CCS.com,Adidas,89.42
+2023-10-12,CCS.com,C1rca,69.95
+2023-10-12,CCS.com,Converse,78.33
+2023-10-12,CCS.com,DC,124.95
+2023-10-12,CCS.com,Emerica,94.95
+2023-10-12,CCS.com,eS,116.2
+2023-10-12,CCS.com,Globe,124.95
+2023-10-12,CCS.com,Last Resort,93.7
+2023-10-12,CCS.com,New Balance,88.07
+2023-10-12,CCS.com,Nike SB,92.45
+2023-10-12,CCS.com,Reebok,89.95
+2023-10-12,CCS.com,Saucony,105.98
+2023-10-12,CCS.com,Vans,88.28
+2023-10-12,Tactics.com,Adidas,91.95
+2023-10-12,Tactics.com,Converse,77.95
+2023-10-12,Tactics.com,Emerica,86.62
+2023-10-12,Tactics.com,eS,119.95
+2023-10-12,Tactics.com,Etnies,103.28
+2023-10-12,Tactics.com,Lakai,84.45
+2023-10-12,Tactics.com,Last Resort,93.7
+2023-10-12,Tactics.com,New Balance,89.95
+2023-10-12,Tactics.com,Nike SB,91.95
+2023-10-12,Tactics.com,Thirtytwo,79.95
+2023-10-12,Tactics.com,Vans,144.95
+2023-10-13,CCS.com,Adidas,89.42
+2023-10-13,CCS.com,C1rca,69.95
+2023-10-13,CCS.com,Converse,78.33
+2023-10-13,CCS.com,DC,124.95
+2023-10-13,CCS.com,Emerica,94.95
+2023-10-13,CCS.com,eS,116.2
+2023-10-13,CCS.com,Globe,124.95
+2023-10-13,CCS.com,Last Resort,93.7
+2023-10-13,CCS.com,New Balance,88.07
+2023-10-13,CCS.com,Nike SB,92.45
+2023-10-13,CCS.com,Reebok,89.95
+2023-10-13,CCS.com,Saucony,105.98
+2023-10-13,CCS.com,Vans,88.28
+2023-10-13,Tactics.com,Adidas,88.95
+2023-10-13,Tactics.com,Converse,77.95
+2023-10-13,Tactics.com,Emerica,78.7
+2023-10-13,Tactics.com,eS,119.95
+2023-10-13,Tactics.com,Etnies,98.28
+2023-10-13,Tactics.com,Lakai,85.95
+2023-10-13,Tactics.com,Last Resort,93.28
+2023-10-13,Tactics.com,New Balance,93.95
+2023-10-13,Tactics.com,Nike SB,91.95
+2023-10-13,Tactics.com,Thirtytwo,79.95
+2023-10-13,Tactics.com,Vans,117.95
+2023-10-14,CCS.com,Adidas,89.42
+2023-10-14,CCS.com,C1rca,69.95
+2023-10-14,CCS.com,Converse,78.33
+2023-10-14,CCS.com,DC,124.95
+2023-10-14,CCS.com,Emerica,94.95
+2023-10-14,CCS.com,eS,116.2
+2023-10-14,CCS.com,Globe,124.95
+2023-10-14,CCS.com,Last Resort,93.7
+2023-10-14,CCS.com,New Balance,88.07
+2023-10-14,CCS.com,Nike SB,92.45
+2023-10-14,CCS.com,Reebok,89.95
+2023-10-14,CCS.com,Saucony,105.98
+2023-10-14,CCS.com,Vans,88.28
+2023-10-14,Tactics.com,Adidas,89.95
+2023-10-14,Tactics.com,Converse,75.95
+2023-10-14,Tactics.com,Emerica,83.7
+2023-10-14,Tactics.com,eS,117.45
+2023-10-14,Tactics.com,Etnies,103.28
+2023-10-14,Tactics.com,Lakai,88.95
+2023-10-14,Tactics.com,Last Resort,93.7
+2023-10-14,Tactics.com,New Balance,93.95
+2023-10-14,Tactics.com,Nike SB,91.95
+2023-10-14,Tactics.com,Thirtytwo,79.95
+2023-10-14,Tactics.com,Vans,117.95
+2023-10-15,CCS.com,Adidas,89.42
+2023-10-15,CCS.com,C1rca,69.95
+2023-10-15,CCS.com,Converse,78.33
+2023-10-15,CCS.com,DC,124.95
+2023-10-15,CCS.com,Emerica,94.95
+2023-10-15,CCS.com,eS,116.2
+2023-10-15,CCS.com,Globe,124.95
+2023-10-15,CCS.com,Last Resort,93.7
+2023-10-15,CCS.com,New Balance,88.07
+2023-10-15,CCS.com,Nike SB,92.45
+2023-10-15,CCS.com,Reebok,89.95
+2023-10-15,CCS.com,Saucony,105.98
+2023-10-15,CCS.com,Vans,88.28
+2023-10-15,Tactics.com,Adidas,90.95
+2023-10-15,Tactics.com,Converse,77.95
+2023-10-15,Tactics.com,Emerica,86.2
+2023-10-15,Tactics.com,eS,119.95
+2023-10-15,Tactics.com,Etnies,94.95
+2023-10-15,Tactics.com,Lakai,85.7
+2023-10-15,Tactics.com,Last Resort,92.45
+2023-10-15,Tactics.com,New Balance,91.2
+2023-10-15,Tactics.com,Nike SB,91.95
+2023-10-15,Tactics.com,Thirtytwo,79.95
+2023-10-15,Tactics.com,Vans,117.95
+2023-10-16,CCS.com,Adidas,89.42
+2023-10-16,CCS.com,C1rca,69.95
+2023-10-16,CCS.com,Converse,78.33
+2023-10-16,CCS.com,DC,124.95
+2023-10-16,CCS.com,Emerica,94.95
+2023-10-16,CCS.com,eS,116.2
+2023-10-16,CCS.com,Globe,124.95
+2023-10-16,CCS.com,Last Resort,93.7
+2023-10-16,CCS.com,New Balance,88.07
+2023-10-16,CCS.com,Nike SB,92.45
+2023-10-16,CCS.com,Reebok,89.95
+2023-10-16,CCS.com,Saucony,105.98
+2023-10-16,CCS.com,Vans,88.28
+2023-10-16,Tactics.com,Adidas,88.95
+2023-10-16,Tactics.com,Converse,75.95
+2023-10-16,Tactics.com,Emerica,89.95
+2023-10-16,Tactics.com,eS,119.95
+2023-10-16,Tactics.com,Etnies,94.95
+2023-10-16,Tactics.com,Lakai,88.2
+2023-10-16,Tactics.com,Last Resort,94.95
+2023-10-16,Tactics.com,New Balance,94.95
+2023-10-16,Tactics.com,Nike SB,91.95
+2023-10-16,Tactics.com,Thirtytwo,79.95
+2023-10-16,Tactics.com,Vans,117.95
+2023-10-17,CCS.com,Adidas,92.2
+2023-10-17,CCS.com,C1rca,69.95
+2023-10-17,CCS.com,Converse,78.33
+2023-10-17,CCS.com,DC,124.95
+2023-10-17,CCS.com,Emerica,94.95
+2023-10-17,CCS.com,eS,116.2
+2023-10-17,CCS.com,Globe,124.95
+2023-10-17,CCS.com,Last Resort,93.7
+2023-10-17,CCS.com,New Balance,89.15
+2023-10-17,CCS.com,Nike SB,92.45
+2023-10-17,CCS.com,Reebok,89.95
+2023-10-17,CCS.com,Saucony,105.98
+2023-10-17,CCS.com,Vans,88.28
+2023-10-17,Tactics.com,Adidas,88.95
+2023-10-17,Tactics.com,Converse,77.95
+2023-10-17,Tactics.com,Emerica,89.95
+2023-10-17,Tactics.com,eS,149.95
+2023-10-17,Tactics.com,Etnies,103.28
+2023-10-17,Tactics.com,Lakai,82.45
+2023-10-17,Tactics.com,Last Resort,93.7
+2023-10-17,Tactics.com,New Balance,93.95
+2023-10-17,Tactics.com,Nike SB,91.95
+2023-10-17,Tactics.com,Thirtytwo,79.95
+2023-10-17,Tactics.com,Vans,136.62
+2023-10-18,CCS.com,Adidas,96.45
+2023-10-18,CCS.com,C1rca,69.95
+2023-10-18,CCS.com,Converse,78.33
+2023-10-18,CCS.com,DC,109.95
+2023-10-18,CCS.com,Emerica,94.95
+2023-10-18,CCS.com,eS,116.2
+2023-10-18,CCS.com,Globe,124.95
+2023-10-18,CCS.com,Last Resort,93.7
+2023-10-18,CCS.com,New Balance,86.74
+2023-10-18,CCS.com,Nike SB,92.45
+2023-10-18,CCS.com,Opus,67.73
+2023-10-18,CCS.com,Reebok,89.95
+2023-10-18,CCS.com,Saucony,77
+2023-10-18,CCS.com,Vans,88.28
+2023-10-18,Tactics.com,Adidas,91.2
+2023-10-18,Tactics.com,Converse,77.95
+2023-10-18,Tactics.com,Emerica,88.28
+2023-10-18,Tactics.com,eS,129.95
+2023-10-18,Tactics.com,Etnies,103.28
+2023-10-18,Tactics.com,Lakai,84.45
+2023-10-18,Tactics.com,Last Resort,93.7
+2023-10-18,Tactics.com,New Balance,91.2
+2023-10-18,Tactics.com,Nike SB,91.95
+2023-10-18,Tactics.com,Thirtytwo,79.95
+2023-10-18,Tactics.com,Vans,117.95
+2023-10-19,CCS.com,Adidas,96.45
+2023-10-19,CCS.com,C1rca,69.95
+2023-10-19,CCS.com,Converse,78.33
+2023-10-19,CCS.com,DC,109.95
+2023-10-19,CCS.com,Emerica,94.95
+2023-10-19,CCS.com,eS,104.95
+2023-10-19,CCS.com,Globe,124.95
+2023-10-19,CCS.com,Last Resort,93.7
+2023-10-19,CCS.com,New Balance,88.57
+2023-10-19,CCS.com,Nike SB,92.45
+2023-10-19,CCS.com,Opus,67.73
+2023-10-19,CCS.com,Reebok,89.95
+2023-10-19,CCS.com,Saucony,77
+2023-10-19,CCS.com,Vans,88.28
+2023-10-19,Tactics.com,Adidas,87.95
+2023-10-19,Tactics.com,Converse,77.95
+2023-10-19,Tactics.com,Emerica,88.28
+2023-10-19,Tactics.com,eS,149.95
+2023-10-19,Tactics.com,Etnies,103.28
+2023-10-19,Tactics.com,Lakai,84.45
+2023-10-19,Tactics.com,Last Resort,93.7
+2023-10-19,Tactics.com,New Balance,93.95
+2023-10-19,Tactics.com,Nike SB,91.95
+2023-10-19,Tactics.com,Thirtytwo,79.95
+2023-10-19,Tactics.com,Vans,136.62
+2023-10-20,CCS.com,Adidas,96.45
+2023-10-20,CCS.com,C1rca,69.95
+2023-10-20,CCS.com,Converse,78.33
+2023-10-20,CCS.com,DC,109.95
+2023-10-20,CCS.com,Emerica,94.95
+2023-10-20,CCS.com,eS,104.95
+2023-10-20,CCS.com,Globe,124.95
+2023-10-20,CCS.com,Last Resort,93.7
+2023-10-20,CCS.com,New Balance,88.57
+2023-10-20,CCS.com,Nike SB,92.45
+2023-10-20,CCS.com,Opus,67.73
+2023-10-20,CCS.com,Reebok,89.95
+2023-10-20,CCS.com,Saucony,77
+2023-10-20,CCS.com,Vans,88.28
+2023-10-20,Tactics.com,Adidas,92.95
+2023-10-20,Tactics.com,Converse,77.45
+2023-10-20,Tactics.com,Emerica,79.95
+2023-10-20,Tactics.com,eS,119.95
+2023-10-20,Tactics.com,Etnies,93.28
+2023-10-20,Tactics.com,Lakai,84.2
+2023-10-20,Tactics.com,Last Resort,96.2
+2023-10-20,Tactics.com,New Balance,96.2
+2023-10-20,Tactics.com,Nike SB,91.95
+2023-10-20,Tactics.com,Thirtytwo,79.95
+2023-10-20,Tactics.com,Vans,122.09
+2023-10-21,CCS.com,Adidas,93.31
+2023-10-21,CCS.com,C1rca,75.95
+2023-10-21,CCS.com,Converse,73.46
+2023-10-21,CCS.com,DC,129.95
+2023-10-21,CCS.com,Globe,86.98
+2023-10-21,CCS.com,Lakai,81.62
+2023-10-21,CCS.com,Last Resort,93.28
+2023-10-21,CCS.com,New Balance,99.95
+2023-10-21,CCS.com,Nike SB,89.95
+2023-10-21,CCS.com,Opus,67.73
+2023-10-21,CCS.com,Reebok,111.62
+2023-10-21,CCS.com,Saucony,134.95
+2023-10-21,CCS.com,Vans,109.95
+2023-10-21,Tactics.com,Adidas,89.95
+2023-10-21,Tactics.com,Converse,78.7
+2023-10-21,Tactics.com,Emerica,83.7
+2023-10-21,Tactics.com,eS,149.95
+2023-10-21,Tactics.com,Etnies,98.28
+2023-10-21,Tactics.com,Lakai,88.95
+2023-10-21,Tactics.com,Last Resort,93.7
+2023-10-21,Tactics.com,New Balance,94.95
+2023-10-21,Tactics.com,Nike SB,91.95
+2023-10-21,Tactics.com,Thirtytwo,79.95
+2023-10-21,Tactics.com,Vans,129.95
+2023-10-22,CCS.com,Adidas,93.31
+2023-10-22,CCS.com,C1rca,75.95
+2023-10-22,CCS.com,Converse,73.46
+2023-10-22,CCS.com,DC,129.95
+2023-10-22,CCS.com,Globe,86.98
+2023-10-22,CCS.com,Lakai,81.62
+2023-10-22,CCS.com,Last Resort,93.28
+2023-10-22,CCS.com,New Balance,99.95
+2023-10-22,CCS.com,Nike SB,89.95
+2023-10-22,CCS.com,Opus,67.73
+2023-10-22,CCS.com,Reebok,111.62
+2023-10-22,CCS.com,Saucony,134.95
+2023-10-22,CCS.com,Vans,109.95
+2023-10-22,Tactics.com,Adidas,92.95
+2023-10-22,Tactics.com,Converse,77.45
+2023-10-22,Tactics.com,Emerica,79.95
+2023-10-22,Tactics.com,eS,119.95
+2023-10-22,Tactics.com,Etnies,94.95
+2023-10-22,Tactics.com,Lakai,84.95
+2023-10-22,Tactics.com,Last Resort,93.7
+2023-10-22,Tactics.com,New Balance,96.2
+2023-10-22,Tactics.com,Nike SB,91.95
+2023-10-22,Tactics.com,Thirtytwo,79.95
+2023-10-22,Tactics.com,Vans,122.09
+2023-10-23,CCS.com,Adidas,93.31
+2023-10-23,CCS.com,C1rca,75.95
+2023-10-23,CCS.com,Converse,73.46
+2023-10-23,CCS.com,DC,129.95
+2023-10-23,CCS.com,Globe,86.98
+2023-10-23,CCS.com,Lakai,81.62
+2023-10-23,CCS.com,Last Resort,93.28
+2023-10-23,CCS.com,New Balance,99.95
+2023-10-23,CCS.com,Nike SB,89.95
+2023-10-23,CCS.com,Opus,67.73
+2023-10-23,CCS.com,Reebok,111.62
+2023-10-23,CCS.com,Saucony,134.95
+2023-10-23,CCS.com,Vans,109.95
+2023-10-23,Tactics.com,Adidas,91.95
+2023-10-23,Tactics.com,Converse,77.95
+2023-10-23,Tactics.com,Emerica,91.62
+2023-10-23,Tactics.com,eS,149.95
+2023-10-23,Tactics.com,Etnies,103.28
+2023-10-23,Tactics.com,Lakai,84.45
+2023-10-23,Tactics.com,Last Resort,93.7
+2023-10-23,Tactics.com,New Balance,93.95
+2023-10-23,Tactics.com,Nike SB,91.95
+2023-10-23,Tactics.com,Thirtytwo,79.95
+2023-10-23,Tactics.com,Vans,122.09
+2023-10-24,CCS.com,Adidas,93.31
+2023-10-24,CCS.com,C1rca,75.95
+2023-10-24,CCS.com,Converse,73.46
+2023-10-24,CCS.com,DC,129.95
+2023-10-24,CCS.com,Globe,86.98
+2023-10-24,CCS.com,Lakai,81.62
+2023-10-24,CCS.com,Last Resort,93.28
+2023-10-24,CCS.com,New Balance,99.95
+2023-10-24,CCS.com,Nike SB,89.95
+2023-10-24,CCS.com,Opus,67.73
+2023-10-24,CCS.com,Reebok,111.62
+2023-10-24,CCS.com,Saucony,134.95
+2023-10-24,CCS.com,Vans,109.95
+2023-10-24,Tactics.com,Adidas,86.2
+2023-10-24,Tactics.com,Converse,78.95
+2023-10-24,Tactics.com,Emerica,81.62
+2023-10-24,Tactics.com,eS,119.95
+2023-10-24,Tactics.com,Etnies,98.28
+2023-10-24,Tactics.com,Lakai,85.95
+2023-10-24,Tactics.com,Last Resort,94.95
+2023-10-24,Tactics.com,New Balance,94.95
+2023-10-24,Tactics.com,Nike SB,91.62
+2023-10-24,Tactics.com,Thirtytwo,79.95
+2023-10-24,Tactics.com,Vans,129.95
+2023-10-25,CCS.com,Adidas,93.31
+2023-10-25,CCS.com,C1rca,75.95
+2023-10-25,CCS.com,Converse,73.46
+2023-10-25,CCS.com,DC,129.95
+2023-10-25,CCS.com,Globe,86.98
+2023-10-25,CCS.com,Lakai,81.62
+2023-10-25,CCS.com,Last Resort,93.28
+2023-10-25,CCS.com,New Balance,99.95
+2023-10-25,CCS.com,Nike SB,89.95
+2023-10-25,CCS.com,Opus,67.73
+2023-10-25,CCS.com,Reebok,111.62
+2023-10-25,CCS.com,Saucony,134.95
+2023-10-25,CCS.com,Vans,109.95
+2023-10-25,Tactics.com,Adidas,92.95
+2023-10-25,Tactics.com,Converse,77.45
+2023-10-25,Tactics.com,Emerica,76.62
+2023-10-25,Tactics.com,eS,119.95
+2023-10-25,Tactics.com,Etnies,98.28
+2023-10-25,Tactics.com,Lakai,85.95
+2023-10-25,Tactics.com,Last Resort,93.28
+2023-10-25,Tactics.com,New Balance,94.95
+2023-10-25,Tactics.com,Nike SB,91.62
+2023-10-25,Tactics.com,Thirtytwo,127.45
+2023-10-25,Tactics.com,Vans,129.95
+2023-10-26,CCS.com,Adidas,93.31
+2023-10-26,CCS.com,C1rca,75.95
+2023-10-26,CCS.com,Converse,73.46
+2023-10-26,CCS.com,DC,129.95
+2023-10-26,CCS.com,Globe,86.98
+2023-10-26,CCS.com,Lakai,81.62
+2023-10-26,CCS.com,Last Resort,93.28
+2023-10-26,CCS.com,New Balance,99.95
+2023-10-26,CCS.com,Nike SB,89.95
+2023-10-26,CCS.com,Opus,67.73
+2023-10-26,CCS.com,Reebok,111.62
+2023-10-26,CCS.com,Saucony,134.95
+2023-10-26,CCS.com,Vans,109.95
+2023-10-26,Tactics.com,Adidas,86.2
+2023-10-26,Tactics.com,Converse,78.95
+2023-10-26,Tactics.com,Emerica,81.62
+2023-10-26,Tactics.com,eS,119.95
+2023-10-26,Tactics.com,Etnies,98.28
+2023-10-26,Tactics.com,Lakai,85.95
+2023-10-26,Tactics.com,Last Resort,93.28
+2023-10-26,Tactics.com,New Balance,94.95
+2023-10-26,Tactics.com,Nike SB,91.62
+2023-10-26,Tactics.com,Thirtytwo,127.45
+2023-10-26,Tactics.com,Vans,129.95
+2023-10-27,CCS.com,Adidas,93.31
+2023-10-27,CCS.com,C1rca,75.95
+2023-10-27,CCS.com,Converse,73.46
+2023-10-27,CCS.com,DC,129.95
+2023-10-27,CCS.com,Globe,86.98
+2023-10-27,CCS.com,Lakai,81.62
+2023-10-27,CCS.com,Last Resort,93.28
+2023-10-27,CCS.com,New Balance,99.95
+2023-10-27,CCS.com,Nike SB,89.95
+2023-10-27,CCS.com,Opus,67.73
+2023-10-27,CCS.com,Reebok,111.62
+2023-10-27,CCS.com,Saucony,134.95
+2023-10-27,CCS.com,Vans,109.95
+2023-10-27,Tactics.com,Adidas,89.95
+2023-10-27,Tactics.com,Converse,77.95
+2023-10-27,Tactics.com,Emerica,79.95
+2023-10-27,Tactics.com,eS,129.95
+2023-10-27,Tactics.com,Etnies,98.28
+2023-10-27,Tactics.com,Lakai,84.7
+2023-10-27,Tactics.com,Last Resort,94.95
+2023-10-27,Tactics.com,New Balance,96.2
+2023-10-27,Tactics.com,Nike SB,91.62
+2023-10-27,Tactics.com,Thirtytwo,79.95
+2023-10-27,Tactics.com,Vans,129.95
+2023-10-28,CCS.com,Adidas,93.31
+2023-10-28,CCS.com,C1rca,75.95
+2023-10-28,CCS.com,Converse,73.46
+2023-10-28,CCS.com,DC,129.95
+2023-10-28,CCS.com,Globe,86.98
+2023-10-28,CCS.com,Lakai,81.62
+2023-10-28,CCS.com,Last Resort,93.28
+2023-10-28,CCS.com,New Balance,99.95
+2023-10-28,CCS.com,Nike SB,89.95
+2023-10-28,CCS.com,Opus,67.73
+2023-10-28,CCS.com,Reebok,111.62
+2023-10-28,CCS.com,Saucony,134.95
+2023-10-28,CCS.com,Vans,109.95
+2023-10-28,Tactics.com,Adidas,88.95
+2023-10-28,Tactics.com,Converse,78.7
+2023-10-28,Tactics.com,Emerica,83.7
+2023-10-28,Tactics.com,eS,149.95
+2023-10-28,Tactics.com,Etnies,99.95
+2023-10-28,Tactics.com,Lakai,88.2
+2023-10-28,Tactics.com,Last Resort,93.7
+2023-10-28,Tactics.com,New Balance,92.45
+2023-10-28,Tactics.com,Nike SB,91.62
+2023-10-28,Tactics.com,Thirtytwo,127.45
+2023-10-28,Tactics.com,Vans,129.95
